@@ -46,42 +46,71 @@ function gamequiz(question,answer){
 
     var question=[
     {
-      question:'1.Which of the following is the capital of Arunachal Pradesh?A.Itanagar\nB.Dispur\nC.Imphal\nD.Panaji\n',
+      question:'1.Which of the following is the capital of Arunachal Pradesh?
+      A.Itanagar
+      B.Dispur
+      C.Imphal
+      D.Panaji\n',
+
+
       answer:'a'
     },
     {
-      question:'2.Which is the largest coffee producing state of India?\nA.Kerala\nB.Tamil Nadu\nC.Karnataka\nD. Arunachal Pradesh\n',
+      question:'2.Which is the largest coffee producing state of India?
+      A.Kerala
+      B.Tamil Nadu
+      C.Karnataka
+      D. Arunachal Pradesh\n',
+
       answer:'c'
       },  
       {
-      question:'3.If one bald person gets his haircut and spend 10Rs then how much Rs will be spend by 10 bald?\nA.10\nB.100\nC.0\nD.50\n',
+      question:'3.If one bald person gets his haircut and spend 10Rs then how much Rs will be spend by 10 bald?
+      A.10
+      B.100
+      C.0
+      D.50\n',
+
+
       answer:'c'
       },
       {
-      question:'4.A car is running @80kmph then how much time it takes to reach 80km? person\nA.1.5 Hour\nB.1 Hour\nC.8 Hours\nD.5 Hours\n',
+      question:'4.A car is running @80kmph then how much time it takes to reach 80km? 
+      A.1.5 Hour
+      B.1 Hour
+      C.8 Hours
+      D.5 Hours\n',
+
+      
       answer:'b'
        },
       {
-      question:'5.when I was two year old my brother was half of my age and when I will be 100 years old what do you think how old would he be?\nA.25\nB.01\nC.50\nD.99\n',
+      question:'5.when I was two year old my brother was half of my age and when I will be 100 years old what do you think how old would he be?
+      A.25
+      B.01
+      C.50
+      D.99\n',
+
+
       answer:'d'
       },
       {
-      question:'6.Can you name a word which has all the vowels in it?\n',
+      question:'6.Can you name a word which has all the vowels in it?',
       answer:'education'
       }, 
       {
-        question:'7.Name the word which pronunciation remain same after removing its four letters?\n',
+        question:'7.Name the word which pronunciation remain same after removing its four letters?',
         answer:'q'
       },  
       {
-      question:'8.How many times 7 comes from 1 to 100?\n',
+      question:'8.How many times 7 comes from 1 to 100?',
       answer:'20'
       },  {
-      question:'9.How many times you can subtract 2 from 50?\n',
+      question:'9.How many times you can subtract 2 from 50?',
       answer:'1'
       },
       {
-      question:'10.Lets assume You have 4 dogs and 3 cats then how much legs do you have?(write number)\n',
+      question:'10.Lets assume You have 4 dogs and 3 cats then how much legs do you have?(write number)',
       answer:'2'
       },     
   ];
